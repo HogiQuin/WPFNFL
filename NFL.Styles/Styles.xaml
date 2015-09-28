@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Colors.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="Label.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="Panel.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="ComboBox.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="TextBlock.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="Border.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="TextBox.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="Button.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="DataGrid.xaml"></ResourceDictionary>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

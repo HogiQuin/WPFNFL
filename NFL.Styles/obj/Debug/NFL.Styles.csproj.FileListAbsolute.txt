@@ -1,0 +1,51 @@
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\bin\Debug\NFL.Styles.dll
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\bin\Debug\NFL.Styles.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\Colors.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\Styles.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles_MarkupCompile.cache
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.g.resources
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.Properties.Resources.resources
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.csproj.GenerateResource.Cache
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.dll
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\Panel.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\Label.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\ComboBox.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.Styles\obj\Debug\TextBlock.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\bin\Debug\NFL.Styles.dll
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\bin\Debug\NFL.Styles.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\Border.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\Colors.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\ComboBox.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\Label.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\Panel.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\Styles.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\TextBlock.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles_MarkupCompile.cache
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.g.resources
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.Properties.Resources.resources
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.csproj.GenerateResource.Cache
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.dll
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\TextBox.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.Styles\obj\Debug\Button.baml
+E:\WpfNFL\NFL.Styles\bin\Debug\NFL.Styles.dll
+E:\WpfNFL\NFL.Styles\bin\Debug\NFL.Styles.pdb
+E:\WpfNFL\NFL.Styles\obj\Debug\ResolveAssemblyReference.cache
+E:\WpfNFL\NFL.Styles\obj\Debug\Border.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\Button.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\Colors.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\ComboBox.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\Label.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\Panel.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\Styles.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\TextBlock.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\TextBox.baml
+E:\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles_MarkupCompile.cache
+E:\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.g.resources
+E:\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.Properties.Resources.resources
+E:\WpfNFL\NFL.Styles\obj\Debug\GenerateResource.read.1.tlog
+E:\WpfNFL\NFL.Styles\obj\Debug\GenerateResource.write.1.tlog
+E:\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.dll
+E:\WpfNFL\NFL.Styles\obj\Debug\NFL.Styles.pdb
+E:\WpfNFL\NFL.Styles\obj\Debug\DataGrid.baml

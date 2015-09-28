@@ -1,0 +1,83 @@
+﻿<Window x:Class="NFL.App.NewTeamWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New Team" Height="600" Width="800">
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Offset="0" Color="{StaticResource colorLightGray}"></GradientStop>
+            <GradientStop Offset="1" Color="{StaticResource colorGray}"></GradientStop>
+        </LinearGradientBrush>
+    </Window.Background>
+    <DockPanel>
+        <DockPanel DockPanel.Dock="Top" Style="{StaticResource panelHeader}" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Image Source="Images/nfl.png" Height="80" Margin="5"></Image>
+                <Label Grid.Row="0" Grid.Column="1" Style="{StaticResource labelPanel}">Add New Teams</Label>
+            </Grid>
+        </DockPanel>
+        <DockPanel DockPanel.Dock="Top">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="0" Grid.RowSpan="5" Grid.Column="0" Grid.ColumnSpan="2" Style="{StaticResource borderImage}">
+                    <Image Name="imgLogo"  Stretch="Fill"></Image>
+                </Border>
+
+                <Label Grid.Row="0" Grid.Column="2" Style="{StaticResource labelNormal}">Id:</Label>
+                <TextBox Name="txtId" Grid.Row="0" Grid.Column="3"></TextBox>
+                <Label Grid.Row="1" Grid.Column="2" Style="{StaticResource labelNormal}">City:</Label>
+                <TextBox Name="txtCity" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2"></TextBox>
+                <Label Grid.Row="2" Grid.Column="2"  Style="{StaticResource labelNormal}">Nickname:</Label>
+                <TextBox Name="txtNickname" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="2"></TextBox>
+                <Label Grid.Row="3" Grid.Column="2"  Style="{StaticResource labelNormal}">Conference:</Label>
+                <ComboBox Name="cmbConference" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2" SelectionChanged="cmbConference_SelectionChanged"></ComboBox>
+                <Label Grid.Row="4" Grid.Column="2"  Style="{StaticResource labelNormal}">Division:</Label>
+                <ComboBox Name="cmbDivision" Grid.Row="4" Grid.Column="3" Grid.ColumnSpan="2" ></ComboBox>
+                <Button Name="btnSearch" Grid.Row="5" Grid.Column="1" Click="btnSearch_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="Images/search.png"></Image>
+                        <TextBlock Style="{StaticResource textCombo}">Search...</TextBlock>
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </DockPanel>
+        <DockPanel DockPanel.Dock="Bottom" VerticalAlignment="Bottom">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Name="btnSave" Grid.Row="0" Grid.Column="1" Click="btnSave_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="Images/accept.png"></Image>
+                        <TextBlock Style="{StaticResource textCombo}">Save</TextBlock>
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </DockPanel>
+    </DockPanel>
+    
+</Window>

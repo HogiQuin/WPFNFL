@@ -1,0 +1,95 @@
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+G:\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+G:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+G:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+G:\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+G:\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+G:\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+G:\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+G:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+G:\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+G:\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+G:\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+G:\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+G:\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+G:\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+G:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+G:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+G:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+G:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+G:\WpfNFL\NFL.App\obj\x86\Debug\NwPlayerWindow.g.cs
+E:\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+E:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+E:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+E:\WpfNFL\NFL.App\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+E:\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+E:\WpfNFL\NFL.App\obj\x86\Debug\NwPlayerWindow.baml
+E:\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+E:\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+E:\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+E:\WpfNFL\NFL.App\obj\x86\Debug\NwPlayerWindow.g.cs
+E:\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+E:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+E:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+E:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+E:\WpfNFL\NFL.App\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WpfNFL\NFL.App\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+E:\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+E:\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+E:\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NwPlayerWindow.baml
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NwPlayerWindow.g.cs
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\goyo\Desktop\universidad\WpfNFL\NFL.App\obj\x86\Debug\GenerateResource.write.1.tlog

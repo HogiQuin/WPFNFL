@@ -1,0 +1,31 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+
+<ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Colors.xaml"></ResourceDictionary>
+    </ResourceDictionary.MergedDictionaries>
+
+    <Style TargetType="ComboBox">
+        <Setter Property="Margin" Value="10"></Setter>
+        <Setter Property="Padding" Value="10"></Setter>
+        <Setter Property="FontSize" Value="14pt"></Setter>
+    </Style>
+    <LinearGradientBrush x:Key="GradienteBlue" EndPoint="1,0.5" StartPoint="0,0.5">
+        <GradientStop Color="{StaticResource colorDarkBlue}" Offset="0"/>
+        <GradientStop Color="{StaticResource colorBlue}" Offset="1"/>
+    </LinearGradientBrush>
+    
+        <LinearGradientBrush x:Key="GridBackGround" EndPoint="1,0.5" StartPoint="0,0.5">
+        <GradientStop Color="{StaticResource colorDarkBlue}" Offset="0"/>
+        <GradientStop Color="{StaticResource colorBlue}" Offset="1"/>
+            <GradientStop Color="#FF605D5D" Offset="0.50"/>
+        </LinearGradientBrush>
+        <Style x:Key="HeaderStyle" TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="Background" Value="{StaticResource GridBackGround }" />
+            <Setter Property="Foreground" Value="white" />
+        </Style>
+   
+</ResourceDictionary>
